@@ -3,7 +3,7 @@
 name: Feature Request
 description: Change in functionality
 labels: ["refine"]
-projects: ["ProteinGym2/1"]
+projects: ["buying-intent-project/1"]
 type: Feature
 body:
   - type: textarea
